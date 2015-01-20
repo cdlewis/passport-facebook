@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-facebook.git"
+    "url": "git://github.com/cdlewis/passport-facebook.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-facebook/issues"
+    "url": "http://github.com/cdlewis/passport-facebook/issues"
   },
   "licenses": [
     {
